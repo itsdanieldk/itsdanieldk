@@ -1,7 +1,15 @@
-# Hello, I'm Daniel 👋👨‍💻
+# Hey, it's Daniel! 🪻👋
 
-A software engineer interested in functional and concurrent programming, compiler theory as well as software architecture.
+Software Engineer passionate about functional programming, distributed & parallel systems, and software architecture.  
 
-Currently working on improving my functional programming library [FIO](https://github.com/fio-fsharp/fio) while developing Azure micro-services at [Clever](https://clever.dk/).
+Currently improving my functional programming library [FIO](https://github.com/fio-fsharp/fio) and developing .NET solutions on Azure at [Clever](https://clever.dk).  
+Also leveling up full-stack skills with [FlickFlash](https://github.com/itsdaniel/flickflash-backend).  
 
-For more information about me, visit my [website](https://iyyel.io).
+## 💻 Tech & Skills
+- Languages: F#, C#, Scala, JavaScript/TypeScript, HTML/CSS  
+- Frameworks & Tools: .NET, Azure, React  
+- Interests: Functional programming, software architecture, cloud computing  
+
+💜 Fun fact: I enjoy staying active and collecting fragrances.  
+
+More about me: [website](https://itsdaniel.dk)
