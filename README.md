@@ -1,15 +1,25 @@
-# Hey, it's Daniel! 🪻👋
+# Hey, it's Daniel! 🪻
 
-Software Engineer passionate about functional programming, distributed & parallel systems, and software architecture.  
+Software Engineer sharing thoughts and experiences in functional programming, distributed & parallel systems, and software architecture.
 
-Currently improving my functional programming library [FIO](https://github.com/fio-fsharp/fio) and developing .NET solutions on Azure at [Clever](https://clever.dk).  
-Also leveling up full-stack skills with [FlickFlash](https://github.com/itsdanieldk/flickflash-backend).  
+## 💜 Tech Stack
 
-## 💻 Tech & Skills
-- Languages: F#, C#, Scala, JavaScript/TypeScript, HTML/CSS  
-- Frameworks & Tools: .NET, Azure, React  
-- Interests: Functional programming, software architecture, cloud computing  
+**Languages:** C# • F# • Scala • TypeScript • SQL
 
-💜 Fun fact: I enjoy staying active and collecting fragrances.  
+**Frameworks:** .NET • React • Blazor
 
-More about me: [website](https://itsdaniel.dk)
+**Databases & Cloud:** Azure • Redis • PostgreSQL • Cosmos DB
+
+**Focus Areas:** Functional Programming • Distributed Systems • Software Architecture • Cloud Computing
+
+## ✨ Projects
+- [**FIO**](https://github.com/fio-fsharp/fio) – a type-safe, purely functional effect system for asynchronous and concurrent F#
+- **FlickFlash** – full-stack flash card application using Aspire (coming soon)
+
+## 👋 About Me
+I enjoy staying active, collecting fragrances, listening to various metal genres, and occasionally practicing guitar.
+
+Currently developing .NET solutions on Azure at [Clever](https://clever.dk).
+
+## 💬 Connect
+[hey@itsdaniel.dk](mailto:hey@itsdaniel.dk) • [itsdaniel.dk](https://itsdaniel.dk) • [linkedin.com/in/itsdanieldk](https://linkedin.com/in/itsdanieldk)
