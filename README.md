@@ -1,25 +1,19 @@
 # Hey, it's Daniel! 🪻
 
-Software Engineer sharing thoughts and experiences in functional programming, distributed & parallel systems, and software architecture.
+A software engineer from Denmark. I favor F# and write C# professionally, with functional programming as a guiding philosophy. My work centers on distributed and parallel systems and software architecture.
 
-## 💜 Tech Stack
+I'm responsible for Backend Development at [Clever](https://clever.dk), building the systems behind EV charging in Denmark — .NET services running on Azure. Some of what I learn ends up as notes on [my site](https://itsdaniel.dk).
 
-**Languages:** C# • F# • Scala • TypeScript • SQL
+### Projects
 
-**Frameworks:** .NET • React • Blazor
+**[FIO](https://github.com/fs-fio/fio)** — a functional effect system for F#, grown out of my 2022 thesis at DTU.
 
-**Databases & Cloud:** Azure • Redis • PostgreSQL • Cosmos DB
+### Beyond the keyboard
 
-**Focus Areas:** Functional Programming • Distributed Systems • Software Architecture • Cloud Computing
+I run and lift weights, explore metal music, practice guitar, collect fragrances, and read Norse mythology and history.
 
-## ✨ Projects
-- [**FIO**](https://github.com/fio-fsharp/fio) – a type-safe, purely functional effect system for asynchronous and concurrent F#
-- **FlickFlash** – full-stack flash card application using Aspire (coming soon)
+### Elsewhere
 
-## 👋 About Me
-I enjoy staying active, collecting fragrances, listening to various metal genres, and occasionally practicing guitar.
+[hey@itsdaniel.dk](mailto:hey@itsdaniel.dk) &nbsp;·&nbsp; [itsdaniel.dk](https://itsdaniel.dk) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/itsdanieldk)
 
-Currently developing .NET solutions on Azure at [Clever](https://clever.dk).
-
-## 💬 Connect
-[hey@itsdaniel.dk](mailto:hey@itsdaniel.dk) • [itsdaniel.dk](https://itsdaniel.dk) • [linkedin.com/in/itsdanieldk](https://linkedin.com/in/itsdanieldk)
+Questions or want to connect? Reach out anytime.
